@@ -1,3 +1,6 @@
+def f():
+    print(8)
+
 n = int(input())
 arr = []
 for i in range(n):
@@ -10,3 +13,4 @@ for i in range(n):
         arr[minimum], arr[i] = arr[i], arr[minimum]
 for i in range(n):
     print(arr[i])
+f()
