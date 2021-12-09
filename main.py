@@ -1,3 +1,6 @@
+from new pole.py import newclass
+
+
 def printAutor():
     print('designed by None')
 
