@@ -15,3 +15,4 @@ for i in range(n):
 for i in range(n):
     print(arr[i])
     printAutor()
+    print('зачем')
