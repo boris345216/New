@@ -9,4 +9,4 @@ for i in range(n):
                 minimum = j
         arr[minimum], arr[i] = arr[i], arr[minimum]
 for i in range(n):
-    print(arr[i])
+    print(arr[i], 9)
